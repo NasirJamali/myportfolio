@@ -352,6 +352,13 @@
         padding-top: 0px;
     }
 
+      .portfolio__img {
+        width: 370px;
+        height: 220px;
+        border-radius: 0.5rem;
+        justify-self: center;
+      }
+
     .home__img {
         display: flex;
         justify-content: center;
